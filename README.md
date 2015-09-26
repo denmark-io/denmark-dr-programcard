@@ -1,4 +1,4 @@
-#denmark-dr-programcard
+#denmark-dr-programcard [![Build Status](https://travis-ci.org/denmark-io/denmark-dr-programcard.svg?branch=master)](https://travis-ci.org/denmark-io/denmark-dr-programcard)
 
 > Extracts the programcard URN from a dr.dk url
 
