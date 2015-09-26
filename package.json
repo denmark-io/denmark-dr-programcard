@@ -1,0 +1,29 @@
+{
+  "name": "denmark-dr-programcard",
+  "description": "Extracts the programcard URN from a dr.dk url",
+  "version": "1.0.0",
+  "author": "Andreas Madsen <amwebdk@gmail.com>",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AndreasMadsen/denmark-dr-programcard.git"
+  },
+  "keywords": [
+    "denmark",
+    "dr",
+    "programcard",
+    "video",
+    "danmarks radio"
+  ],
+  "dependencies": {
+    "jsonic": "0.2.x",
+    "request": "2.60.x"
+  },
+  "devDependencies": {
+    "tap": "1.4.x"
+  },
+  "license": "MIT"
+}
