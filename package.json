@@ -1,7 +1,7 @@
 {
   "name": "denmark-dr-programcard",
   "description": "Extracts the programcard URN from a dr.dk url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Andreas Madsen <amwebdk@gmail.com>",
   "scripts": {
     "test": "tap test.js"
