@@ -27,7 +27,7 @@ programcard(href, function (err, urn) {
   if (err) throw err;
 
   assert(urn === 'urn:dr:mu:programcard:55f8aaa7a11f9f17c87b7254');
-));
+});
 ```
 
 ## Source
